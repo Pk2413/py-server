@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Player</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        video {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Video Stream</h1>
+    <video id="videoPlayer" controls autoplay>
+        <source src="{{ url_for('main.video_feed') }}" type="multipart/x-mixed-replace; boundary=frame">
+        Your browser does not support the video tag.
+    </video>
+</body>
+</html>

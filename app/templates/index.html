@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Camera Streaming</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .camera-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .video-stream, .latest-frame {
+            width: 48%;
+            border: 1px solid #ddd;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Camera Streaming</h1>
+    <div class="camera-container">
+        <div class="video-stream">
+            <h2>Live Stream</h2>
+            <img src="{{ url_for('main.video_feed') }}" alt="Video Stream">
+        </div>
+        <div class="latest-frame">
+            <h2>Latest Frame</h2>
+            <img id="latestFrameImg" src="" alt="Latest Frame">
+        </div>
+    </div>
+
+    <script>
+        function updateLatestFrame() {
+            fetch('/latest_frame')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.image) {
+                        document.getElementById('latestFrameImg').src = 
+                            'data:image/jpeg;base64,' + data.image;
+                    }
+                })
+                .catch(error => console.error('Error:', error));
+        }
+
+        // Update latest frame every 1 second
+        setInterval(updateLatestFrame, 1000);
+    </script>
+</body>
+</html>
