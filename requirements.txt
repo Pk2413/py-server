@@ -1,0 +1,10 @@
+Pillow
+flask
+opencv-python
+pandas
+numpy
+scikit-learn
+openpyxl
+flask-cors
+flask-sqlalchemy
+flask-migrate
