@@ -8,3 +8,5 @@ openpyxl
 flask-cors
 flask-sqlalchemy
 flask-migrate
+flask-socketio
+firebase-admin

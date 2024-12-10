@@ -1,0 +1,63 @@
+2024-12-09 04:56:44,638 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.120.29:5000
+2024-12-09 04:56:44,639 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 04:56:44,643 - werkzeug - INFO -  * Restarting with stat
+2024-12-09 04:56:48,699 - werkzeug - WARNING -  * Debugger is active!
+2024-12-09 04:56:48,704 - werkzeug - INFO -  * Debugger PIN: 461-975-734
+2024-12-09 04:56:48,745 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:56:48] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:56:55,911 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:56:55] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:01,531 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:01] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:05,420 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:05] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:09,180 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:09] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:09,501 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:09] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:14,782 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:14] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:18,444 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:18] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:24,061 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:24] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:29,516 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:29] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:35,834 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:35] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:36,164 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:36] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:41,490 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:41] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:48,231 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:48] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:53,885 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:53] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:57:59,491 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:57:59] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:01,140 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:01] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:01,741 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:01] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:02,676 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:02] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:09,158 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:09] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:14,850 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:14] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:20,717 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:20] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:22,224 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:22] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:22,853 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:22] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:26,164 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:26] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:32,536 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:32] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:39,933 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:39] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:43,852 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:43] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:48,167 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:48] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:49,554 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:49] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:50,214 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:50] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:57,172 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:57] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:58:57,650 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:58:57] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:00,659 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:00] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:05,118 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:05] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:11,986 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:11] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:17,824 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:17] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:19,327 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:19] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:29,468 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:29] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:35,020 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:35] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:40,147 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:40] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:49,150 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:49] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:55,201 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:55] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:59,017 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:59] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 04:59:59,699 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 04:59:59] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 05:00:00,515 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 05:00:00] "[33mPOST /upload HTTP/1.1[0m" 404 -
+2024-12-09 05:00:02,163 - werkzeug - INFO -  * Detected change in 'D:\\coding\\latihan python\\hosting\\app\\routes.py', reloading
+2024-12-09 05:00:02,803 - werkzeug - INFO -  * Restarting with stat
+2024-12-09 05:00:08,751 - werkzeug - WARNING -  * Debugger is active!
+2024-12-09 05:00:08,757 - werkzeug - INFO -  * Debugger PIN: 461-975-734
+2024-12-09 05:00:08,857 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 05:00:08] "POST /upload HTTP/1.1" 200 -
+2024-12-09 05:00:08,858 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 05:00:08] "POST /upload HTTP/1.1" 200 -
+2024-12-09 05:00:13,935 - werkzeug - INFO - 192.168.120.89 - - [09/Dec/2024 05:00:13] "POST /upload HTTP/1.1" 200 -
+2024-12-09 05:00:16,035 - werkzeug - INFO -  * Detected change in 'D:\\coding\\latihan python\\hosting\\app\\__init__.py', reloading
+2024-12-09 05:00:16,531 - werkzeug - INFO -  * Restarting with stat
